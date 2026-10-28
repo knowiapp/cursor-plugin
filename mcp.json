@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "knowi": {
+      "type": "streamable-http",
+      "url": "https://www.knowi.com/api/2.0/mcp"
+    }
+  }
+}

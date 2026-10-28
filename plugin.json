@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "knowi",
+  "version": "1.0.0",
+  "description": "Query, visualize, and act on your Knowi data: ask data questions, build queries, widgets and dashboards, and manage alerts and reports.",
+  "author": {
+    "name": "Knowi",
+    "email": "support@knowi.com",
+    "url": "https://www.knowi.com"
+  },
+  "homepage": "https://www.knowi.com",
+  "repository": "https://github.com/knowiapp/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["knowi", "analytics", "bi", "dashboards", "sql", "mongodb", "elasticsearch", "cloud9ql", "mcp"]
+}
